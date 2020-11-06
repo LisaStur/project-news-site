@@ -4,7 +4,7 @@ Facts about the King of the Jungle. A Technigo Bootcamp project focusing on flex
 
 ## Technologies
 
-Built in HTNL using CSS for styling
+Built in HTML using CSS for styling
 
 ## View it live
 
